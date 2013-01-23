@@ -3,3 +3,4 @@ description = A code snippet I keep around whenever I need to use ctools modal f
 core = 7.x
 package = Other
 
+dependencies[] = ctools
